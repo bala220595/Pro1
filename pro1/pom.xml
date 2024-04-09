@@ -35,10 +35,5 @@
     <version>5.5.3</version>
 	</dependency>
 
-    <dependency>
-    	<groupId>com.testing</groupId>
-    	<artifactId>Testing</artifactId>
-    	<version>0.0.1-SNAPSHOT</version>
-    </dependency>
   </dependencies>
 </project>
